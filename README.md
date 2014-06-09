@@ -28,7 +28,8 @@ TortoiseSVN/Git や git bash などメニューを呼び出すために、エク
 場所にコピーするだけです。
 			
 ## インストールする場所
-以下の場所にファイルをコピーします。
+LabVIEW 32bit版の場合、以下の場所にファイルをコピーします。
+
 
     Windows 32bit:
       C:\Program Files\National Instruments\LabVIEW 20xx\project
